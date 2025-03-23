@@ -1,3 +1,2 @@
-- Hay There..
-- Just started in GitHub
-
+Hello there!
+Wish you the best.
